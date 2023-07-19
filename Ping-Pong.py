@@ -90,4 +90,4 @@ while game:
         ball.reset()
 
     display.update()
-    clock.tick(FPS)
+    clock.tick(FPS
